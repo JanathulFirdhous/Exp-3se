@@ -1,56 +1,42 @@
-# Exp - 2 LIBRARY MANAGEMENT SYSTEM
+# Exp - 3 RAILWAY MANAGEMENT SYSTEM
 
 # AIM:
-
-To study the problem statement, SRS document and draw all the UML diagrams of ATM
-System.
+To draw the UML diagram for Railway Management System.
 
 # SRS (Procedure):
+List of Programs:
 
-```
-Start the system.
+i) Usecase Diagram
 
-User logs in (admin or student).
+ii)Class Diagram
 
-Admin adds or updates book details.
+iii)Activity Diagram
 
-Student searches for and borrows books.
+iv)Communication Diagram
 
-When books are returned, records are updated.
+v)Package Diagram
 
-System keeps track of all issued and returned books.
+vi)Sequence Diagram
 
-Reports can be viewed by the admin.
-
-User logs out.
-
-End.
-```
 # DIAGRAMS:
+# USECASE DIAGRAM
+<img width="910" height="769" alt="Screenshot 2025-11-03 214128" src="https://github.com/user-attachments/assets/4fff13a6-6fa9-4cb6-830a-3bcb0a683d38" />
 
-USECASE DIAGRAM:
+# CLASS DIAGRAM
+<img width="894" height="778" alt="Screenshot 2025-11-03 214402" src="https://github.com/user-attachments/assets/8b04924c-f5da-4464-b4b8-3c40a1add676" />
 
-![UseCaseDiagram1](https://github.com/user-attachments/assets/f29213a7-8445-4fed-912f-0109b98065d7)
+# ACTIVITY DIAGRAM
+<img width="538" height="830" alt="Screenshot 2025-11-03 215011" src="https://github.com/user-attachments/assets/0af71b9d-9c48-4217-812e-2aba83fcdf29" />
 
-CLASS DIAGRAM:
+# COMMUNICATION DIAGRAM
+<img width="888" height="771" alt="Screenshot 2025-11-03 214717" src="https://github.com/user-attachments/assets/7400a3ec-b8e3-44ed-a0a9-c98ba4c3b154" />
 
-![ClassDiagram1](https://github.com/user-attachments/assets/96035aec-9ac1-4ae5-9d53-1465745a1955)
+# PACKAGE DIAGRAM
+<img width="887" height="523" alt="Screenshot 2025-11-03 220458" src="https://github.com/user-attachments/assets/d8da996a-1fd8-4e13-a0b9-9916f143151e" />
 
-PACKAGE DIAGRAM:
+# SEQUENCE DIAGRAM
+<img width="911" height="775" alt="Screenshot 2025-11-03 220515" src="https://github.com/user-attachments/assets/f34deec1-dfc3-4e30-b961-346a1fe10889" />
 
-![PackageDiagram1](https://github.com/user-attachments/assets/8874fd1d-afa6-49c9-b5e2-61a9a012a855)
-
-COMMUNICATION DIAGRAM:
-
-![CommunicationDiagram1](https://github.com/user-attachments/assets/5a560c38-aab7-4ac1-b246-c90497b2bca5)
-
-SEQUENCE DIAGRAM:
-
-![SequenceDiagram1](https://github.com/user-attachments/assets/1cf3f554-13ad-4338-8242-a74e4cd30034)
-
-ACTIVITY DIAGRAM:
-
-<img width="1257" height="913" alt="Screenshot 2025-09-10 104406" src="https://github.com/user-attachments/assets/75cdf37b-df69-4857-8d25-e29f12fc73da" />
 
 # RESULT:
-Thus the Atm and banking System project was executed and the output was verified.
+Thus the project to develop e-ticketing system was developed using Star UML Software.
